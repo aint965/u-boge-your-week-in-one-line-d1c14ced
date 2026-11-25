@@ -1,6 +1,6 @@
-[![make.fun](https://make.fun/badge/u-boge-your-week-in-one-line-d1c14ced.svg)](https://make.fun/competitions/u-boge-your-week-in-one-line-d1c14ced)
-[![rank](https://make.fun/badge/u-boge-your-week-in-one-line-d1c14ced/aint965/u-boge-your-week-in-one-line-d1c14ced/rank.svg)](https://make.fun/competitions/u-boge-your-week-in-one-line-d1c14ced)
-[![reward](https://make.fun/badge/u-boge-your-week-in-one-line-d1c14ced/aint965/u-boge-your-week-in-one-line-d1c14ced/reward.svg)](https://make.fun/competitions/u-boge-your-week-in-one-line-d1c14ced)
+[![make.fun](https://make.fun/badge/u-boge-your-week-in-one-line-d1c14ced.svg)](https://make.fun/bounty/u-boge-your-week-in-one-line-d1c14ced)
+[![rank](https://make.fun/badge/u-boge-your-week-in-one-line-d1c14ced/aint965/u-boge-your-week-in-one-line-d1c14ced/rank.svg)](https://make.fun/bounty/u-boge-your-week-in-one-line-d1c14ced)
+[![reward](https://make.fun/badge/u-boge-your-week-in-one-line-d1c14ced/aint965/u-boge-your-week-in-one-line-d1c14ced/reward.svg)](https://make.fun/bounty/u-boge-your-week-in-one-line-d1c14ced)
 
 # Your Week in One Line
 
